@@ -1,0 +1,15 @@
+.footer {
+  text-align: center;
+  color: white;
+}
+.social-link {
+  text-decoration: none;
+  padding: 10px;
+  color: white;
+}
+.nav-link {
+  display: inline;
+  text-decoration: none;
+  padding: 10px;
+  color: black;
+}
